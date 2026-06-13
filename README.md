@@ -13,7 +13,7 @@
 - 🔭 Đang theo định hướng **Business Analyst (BA)** - cầu nối giữa nghiệp vụ và công nghệ
 - 💻 Bên cạnh đó vẫn rèn luyện kỹ năng lập trình web cơ bản để hiểu sản phẩm tốt hơn
 - 🌱 Đang học thêm về phân tích yêu cầu, quy trình nghiệp vụ và các công cụ hỗ trợ BA
-- 📫 Cách liên hệ với mình: xem phần dưới
+- 📫 Cách liên hệ với mình: Xem phần dưới
 
 ---
 
