@@ -61,13 +61,13 @@
 ### 📫 Kết nối với mình
 
 <p align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:toilatungduong3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://facebook.com/your-facebook" target="_blank">
+  <a href="https://www.facebook.com/giuong.tung.5" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://tiktok.com/@your-tiktok" target="_blank">
+  <a href="https://www.tiktok.com/@tdunk30math1" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
